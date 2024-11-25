@@ -16,6 +16,12 @@ This is a responsive dashboard app built using React.js, Chart.js, and Tailwind 
 - Tailwind CSS
 - Responsive Web Design
 
+## Screenshots
+-![User Dashboard](screenshots/rbac1.png)
+-![User Dashboard with Sidebar](screenshots/rbac2.png)
+-![Admin Dashboard](screenshots/rbac3.png)
+-![Admin Dashboard Responsive](screenshots/rbac4.png)
+
 ## Installation
 
 1. Clone the repository:
