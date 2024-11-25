@@ -14,7 +14,6 @@ This is a responsive dashboard app built using React.js, Chart.js, and Tailwind 
 - React.js
 - Chart.js
 - Tailwind CSS
-- Firebase Authentication (optional if used)
 - Responsive Web Design
 
 ## Installation
